@@ -42,7 +42,6 @@ Cung cấp các giải pháp phục hồi thể chất và vóc dáng khoa học
 
 - **Dịch vụ tận tâm, chu đáo:** Đội ngũ chuyên viên được đào tạo bài bản, mang chuẩn mực chăm sóc mẹ bé đến tận không gian nhà bạn.
 - **Thành phần tự nhiên:** Sản phẩm không sử dụng hóa chất độc hại, corticoid hay chất tẩy rửa mạnh.
-- [https://github.com/mTOPVIET/HomeCareVietNam](https://github.com/mTOPVIET/HomeCareVietNam)
 - **Kinh nghiệm thực tiễn:** Hơn 10 năm trực tiếp chăm sóc cho hàng chục ngàn mẹ và bé tại nhà giúp Home Care thấu hiểu sâu sắc nhu cầu thực tế của khách hàng.
 - **Kiểm định khắt khe:** Các quy trình dịch vụ và sản phẩm của Home Care được kiểm tra chất lượng và đánh giá nghiêm ngặt.
 
